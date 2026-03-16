@@ -1,0 +1,44 @@
+aid: tla-plus-foundation
+name: TLA Plus Foundation
+description: >-
+  The TLA+ Foundation is a Linux Foundation project promoting the adoption of TLA+, a high-level specification language created by Leslie Lamport for modeling concurrent and distributed systems. With inaugural members AWS, Oracle, and Microsoft, it supports formal verification tools and education.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Formal Methods
+  - Verification
+  - Specifications
+  - Linux Foundation
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/tla-plus-foundation/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: tla-plus-foundation:tla-plus-foundation-api
+    name: TLA Plus Foundation API
+    description: >-
+      Programmatic access to TLA+ specification tools, model checking APIs, and formal verification resources.
+    humanURL: https://lamport.azurewebsites.net/tla/tla.html
+    tags:
+  - Formal Methods
+  - Verification
+  - Specifications
+  - Linux Foundation
+    properties:
+      - type: Documentation
+        url: https://lamport.azurewebsites.net/tla/tla.html
+common:
+  - type: Documentation
+    name: TLA Plus Foundation Documentation
+    description: Official documentation for TLA Plus Foundation.
+    url: https://lamport.azurewebsites.net/tla/tla.html
+  - type: GitHubOrg
+    name: TLA Plus Foundation GitHub
+    description: Source code and repositories for TLA Plus Foundation.
+    url: https://github.com/tlaplus
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
