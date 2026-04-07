@@ -23,10 +23,10 @@ apis:
       Programmatic access to TLA+ specification tools, model checking APIs, and formal verification resources.
     humanURL: https://lamport.azurewebsites.net/tla/tla.html
     tags:
-  - Formal Methods
-  - Verification
-  - Specifications
-  - Linux Foundation
+      - Formal Methods
+      - Verification
+      - Specifications
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://lamport.azurewebsites.net/tla/tla.html
