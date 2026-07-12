@@ -132,6 +132,8 @@ apis:
         url: https://github.com/tlaplus/Examples
 
 common:
+  - type: DomainSecurity
+    url: security/tla-plus-foundation-domain-security.yml
   - type: Website
     url: https://foundation.tlapl.us/
   - type: Documentation
