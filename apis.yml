@@ -11,9 +11,21 @@ description: >-
   resources including the VS Code extension, CommunityModules, and formal verification
   examples. The current stable release is v1.7.4 (The Xenophanes release).
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tla-plus-foundation.png
 tags:
   - Formal Methods
   - Linux Foundation
