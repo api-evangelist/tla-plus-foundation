@@ -144,6 +144,9 @@ apis:
         url: https://github.com/tlaplus/Examples
 
 common:
+  - type: License
+    name: MIT
+    url: https://github.com/tlaplus/tlaplus/blob/master/LICENSE
   - type: DomainSecurity
     url: security/tla-plus-foundation-domain-security.yml
   - type: Website
