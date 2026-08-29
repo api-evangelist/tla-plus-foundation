@@ -11,6 +11,18 @@ description: >-
   resources including the VS Code extension, CommunityModules, and formal verification
   examples. The current stable release is v1.7.4 (The Xenophanes release).
 type: Index
+deliveryModel:
+  model: self-hosted
+  license: MIT
+  open_source: true
+  commercial: false
+  callable_host: false
+  label: Self-hosted open source · you run it yourself
+  confidence: high
+  source:
+  - license
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
@@ -144,6 +156,14 @@ apis:
         url: https://github.com/tlaplus/Examples
 
 common:
+  - type: IssueTracker
+    url: https://github.com/tlaplus/tlaplus/issues
+  - type: Releases
+    url: https://github.com/tlaplus/tlaplus/releases
+  - type: CodeOfConduct
+    url: https://github.com/tlaplus/tlaplus/blob/master/.github/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/tlaplus/tlaplus/blob/master/CONTRIBUTING.md
   - type: License
     name: MIT
     url: https://github.com/tlaplus/tlaplus/blob/master/LICENSE
