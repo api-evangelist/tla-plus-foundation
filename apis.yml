@@ -41,6 +41,13 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tla-plus-f
 tags:
   - Formal Methods
   - Linux Foundation
+  - Specification
+  - Verification
+  - Distributed Systems
+  - Concurrency
+tags_raw:
+  - Formal Methods
+  - Linux Foundation
   - Specifications
   - Verification
   - Distributed Systems
@@ -131,6 +138,10 @@ apis:
     tags:
       - Community
       - Modules
+      - Specification
+    tags_raw:
+      - Community
+      - Modules
       - Specifications
     properties:
       - type: Documentation
@@ -146,6 +157,10 @@ apis:
       and system models. Includes reference implementations for learning and validation.
     humanURL: https://github.com/tlaplus/Examples
     tags:
+      - Example
+      - Specification
+      - Learning
+    tags_raw:
       - Examples
       - Specifications
       - Learning
